@@ -19,13 +19,13 @@ Xcode 9.2 <br>
 Swift 4 <br>
 
 ### Pods
-** target 'AirQuality' **<br>
+**target 'AirQuality'** <br>
 Alamofire 4.8.2<br>
 SwiftyJSON 5.0.0<br>
 NotificationBannerSwift 1.6.3<br>
 MarqueeLabel/Swift 3.1.6<br>
 
-** target 'AirQualityWidget' **<br>
+**target 'AirQualityWidget'** <br>
 Alamofire 4.8.2<br>
 SwiftyJSON 5.0.0<br>
 
